@@ -1,0 +1,1 @@
+﻿g++ intensive-hash-generator-*.cpp -o intensive-hash-generator-*.o -lssl -lcrypto -L/usr/lib -lpthread
